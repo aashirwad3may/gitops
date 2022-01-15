@@ -2,8 +2,8 @@ apiVersion: v2
 name: devops-practice
 description: A Helm chart for Kubernetes
 type: application
-version: 1.3.0
+version: 1.3.1
 dependencies:
   - name: devops-practice
-    version: 1.3.0
+    version: 1.3.1
     repository: https://storage.googleapis.com/devops-practice-bucket
