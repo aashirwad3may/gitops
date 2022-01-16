@@ -77,4 +77,4 @@ devops-practice:
 
   tolerations: []
 
-affinity: {}
+  affinity: {}
