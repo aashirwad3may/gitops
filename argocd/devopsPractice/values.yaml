@@ -37,6 +37,7 @@ devops-practice:
   service:
     type: ClusterIP
     port: 80
+    lbType: Internal
 
   ingress:
     enabled: false
